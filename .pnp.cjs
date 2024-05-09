@@ -29,6 +29,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/jest-dom", "npm:5.17.0"],\
           ["@testing-library/react", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:13.4.0"],\
           ["@testing-library/user-event", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:13.5.0"],\
+          ["bootstrap", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:5.3.3"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:18.3.1"],\
           ["react-scripts", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:5.0.1"],\
@@ -6508,6 +6509,28 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["bootstrap", [\
+      ["npm:5.3.3", {\
+        "packageLocation": "../../../../../AppData/Local/Yarn/Berry/cache/bootstrap-npm-5.3.3-da08e2f0fe-10c0.zip/node_modules/bootstrap/",\
+        "packageDependencies": [\
+          ["bootstrap", "npm:5.3.3"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:5.3.3", {\
+        "packageLocation": "./.yarn/__virtual__/bootstrap-virtual-65652f9022/6/AppData/Local/Yarn/Berry/cache/bootstrap-npm-5.3.3-da08e2f0fe-10c0.zip/node_modules/bootstrap/",\
+        "packageDependencies": [\
+          ["bootstrap", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:5.3.3"],\
+          ["@popperjs/core", null],\
+          ["@types/popperjs__core", null]\
+        ],\
+        "packagePeers": [\
+          "@popperjs/core",\
+          "@types/popperjs__core"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["brace-expansion", [\
       ["npm:1.1.11", {\
         "packageLocation": "../../../../../AppData/Local/Yarn/Berry/cache/brace-expansion-npm-1.1.11-fb95eb05ad-10c0.zip/node_modules/brace-expansion/",\
@@ -9045,6 +9068,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/jest-dom", "npm:5.17.0"],\
           ["@testing-library/react", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:13.4.0"],\
           ["@testing-library/user-event", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:13.5.0"],\
+          ["bootstrap", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:5.3.3"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:18.3.1"],\
           ["react-scripts", "virtual:6f50f7ff630b4182c36c334d50c34c9cbf3af4345ba07195afa1e80db7d738f88b21867b2a0655adea74ad431b96cdd7c4043b74d45be3cdfce372ec6ed772c4#npm:5.0.1"],\
